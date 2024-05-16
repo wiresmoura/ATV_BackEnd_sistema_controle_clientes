@@ -1,0 +1,15 @@
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\bin\Debug\net6.0\Atividade.exe
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\bin\Debug\net6.0\Atividade.deps.json
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\bin\Debug\net6.0\Atividade.runtimeconfig.json
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\bin\Debug\net6.0\Atividade.dll
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\bin\Debug\net6.0\ref\Atividade.dll
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\bin\Debug\net6.0\Atividade.pdb
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.dll
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\ref\Atividade.dll
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.pdb
+C:\Users\wires\OneDrive\Documentos\Codificação-BackEnd\Atividade-BackEnd\ATV_SENAI_BackEnd\atividade\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
